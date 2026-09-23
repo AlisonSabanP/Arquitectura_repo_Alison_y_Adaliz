@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 descripçión. 
 =======
 Aqui está el cambio de alison. 
 >>>>>>> rama-alison
+=======
+Cambio Adaliz
+>>>>>>> RamaAda
